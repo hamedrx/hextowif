@@ -1,0 +1,9 @@
+[package]
+name = "hextowif"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sha2 = "0.10"
+bs58 = "0.4"
+hex = "0.4"
