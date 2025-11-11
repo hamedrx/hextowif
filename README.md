@@ -36,6 +36,7 @@ Compressed WIF:   L5arsXhpaakff1oASpm7FvyVV6Hdx3PNuhZDgNXZxpAjk6YHMv8m
  Now you can import these WIF keys into any Bitcoin wallet.
  
 # Donations
+If this tool saved you time or helped in any way, consider making a donation to support the developer:
 
 BTC: 3Hamed9zYHQ9bwJACSidP52HjuPyZX67vf
 
